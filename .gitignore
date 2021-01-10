@@ -1,0 +1,6 @@
+/.github
+/.composer
+/.idea
+/vendor
+composer.phar
+.env
