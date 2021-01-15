@@ -1,0 +1,23 @@
+{
+    "name": "joomlavel/joomladblink",
+    "description": "eloquent models for Joomla Database",
+    "type": "package",
+    "require": {
+        "php": ">=7.3.0",
+        "illuminate/database": "^8.0"
+    },
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Jakub Walczak",
+            "email": "walczak@getit-berlin.de",
+            "homepage": "https://getit-berlin.de"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "JoomLavel\\JoomlaDbLink\\": "src/"
+        }
+    }
+}
