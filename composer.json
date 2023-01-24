@@ -1,17 +1,17 @@
 {
-    "name": "joomlavel/joomladblink",
+    "name": "7dir/joomladblink",
     "description": "eloquent models for Joomla Database",
     "type": "package",
     "require": {
         "php": ">=7.3.0",
-        "illuminate/database": "^5.2|^6|^7|^8"
+        "illuminate/database": "^5.2|^6|^7|^8|^9|^10"
     },
     "license": "mit",
     "authors": [
         {
-            "name": "Jakub Walczak",
-            "email": "walczak@getit-berlin.de",
-            "homepage": "https://getit-berlin.de"
+            "name": "7dir",
+            "email": "mltefive@gmail.com",
+            "homepage": ""
         }
     ],
     "minimum-stability": "stable",
